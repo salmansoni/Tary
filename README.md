@@ -1,1 +1,4 @@
 # Tary
+dekh
+...
+aao
